@@ -19,3 +19,11 @@ names(air) # names of data frame
 is.matrix
 
 mylist$stuff  #表里的列/元素
+
+cbind() 是 column combind
+
+NA can hold a place but NULL cannot.
+
+str(air) structure(air)
+
+mat[c(2,4), 5] = (row2,col5)&(row4,col5)
