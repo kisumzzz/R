@@ -29,3 +29,9 @@ str(air) structure(air)
 mat[c(2,4), 5] = (row2,col5)&(row4,col5)
 
 iris %>% head() is equivalent to head(iris)
+
+ggplot
+<- geom_point(color = region)
+<- geom_smooth(aes(fill="red"),method = "lm",
+               formula = y - log(X),
+               
